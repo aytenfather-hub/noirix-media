@@ -1,6 +1,6 @@
 # NOIRIX — Press kit
 
-Online modest-fashion and lifestyle store serving the Gulf. Website: https://noirix.shop
+Global online fashion, accessories and home store. Website: https://noirix.shop
 Instagram @shop.noirix · TikTok @noirix.shop · Media contact: press@noirix.shop
 
 - `images/` — 10 product images (free to use for editorial coverage of NOIRIX, credit "NOIRIX").
