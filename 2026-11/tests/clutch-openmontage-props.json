@@ -1,0 +1,56 @@
+{
+ "cuts": [
+  {
+   "id": "f1-hook",
+   "source": "noirix-test/f1-hook.png",
+   "in_seconds": 0,
+   "out_seconds": 2.2,
+   "animation": "zoom-in"
+  },
+  {
+   "id": "f2-product",
+   "source": "noirix-test/f2-product.png",
+   "in_seconds": 2.2,
+   "out_seconds": 5.4,
+   "animation": "ken-burns"
+  },
+  {
+   "id": "f3-chain",
+   "source": "noirix-test/f3-chain.png",
+   "in_seconds": 5.4,
+   "out_seconds": 8.2,
+   "animation": "zoom-out"
+  },
+  {
+   "id": "f4-brown",
+   "source": "noirix-test/f4-brown.png",
+   "in_seconds": 8.2,
+   "out_seconds": 11.0,
+   "animation": "pan-right"
+  },
+  {
+   "id": "f5-look",
+   "source": "noirix-test/f5-look.png",
+   "in_seconds": 11.0,
+   "out_seconds": 14.0,
+   "animation": "zoom-in"
+  },
+  {
+   "id": "f6-three",
+   "source": "noirix-test/f6-three.png",
+   "in_seconds": 14.0,
+   "out_seconds": 17.2,
+   "animation": "zoom-out"
+  },
+  {
+   "id": "f7-end",
+   "source": "noirix-test/f7-end.png",
+   "in_seconds": 17.2,
+   "out_seconds": 19.6,
+   "animation": "static"
+  }
+ ],
+ "overlays": [],
+ "captions": [],
+ "audio": {}
+}
